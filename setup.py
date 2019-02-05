@@ -2,7 +2,7 @@ from setuptools import setup
 
 cfg = {
     "name": "funpy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Functional Programming in Python",
     "url": "",
     "author": "Brandon Maday",
