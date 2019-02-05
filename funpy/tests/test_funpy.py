@@ -1,4 +1,4 @@
-from funpy import funpy as fp
+import funpy as fp
 
 def test_identity():
     assert fp.identity(10) == 10

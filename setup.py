@@ -9,7 +9,7 @@ cfg = {
     "author_email": "brandon.maday@gmail.com",
     "license": "",
     "packages": ["funpy",],
-    "zip_safe": False
+    "zip_safe": True
 }
 
 setup(**cfg)
